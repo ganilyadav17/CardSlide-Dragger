@@ -1,1 +1,1 @@
-# CardSlide-Dragger
+# Draggable Card Slider
